@@ -30,13 +30,20 @@
 			
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 				<span class="navbar-toggler-icon"></span>
-			</button> <a class="navbar-brand" href="#">Bungapedia</a>
+			</button>
+			<img class="img-responsive" src="img/bungapedia.png"> 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="navbar-nav">
-					<li class="nav-item active">
-						 <a class="nav-link" href="#">Jenis <span class="sr-only">(current)</span></a>
+				<li class="nav-item dropdown">
+						 <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown">Jenis</a>
+						<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+							 <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
+							<div class="dropdown-divider">
+							</div> <a class="dropdown-item" href="#">Separated link</a>
+						</div>
 					</li>
 				</ul>
+				
 				<!-- TOMBOL SEARCH -->
 				<form class="form-inline">
 					<input class="form-control mr-sm-2" type="text" placeholder="cari bunga"> 
@@ -46,27 +53,22 @@
 				</form>
 				<!-- -->
 
-				<ul class="navbar-nav">
+				<ul class="mr-md-3 navbar-nav">
 					<li class="nav-item active">
 						 <a class="nav-link" href="#"><i class="fas fa-cart-plus"></i> <span class="sr-only">(current)</span></a>
 					</li>
 				</ul>
 
-				<ul class="navbar-nav ml-md-auto">
+				<ul class="vr navbar-nav ml-md-auto">
 					<li class="nav-item active">
-						 <a class="nav-link" href="#">Link <span class="sr-only">(current)</span></a>
+						 <a class="nav-link" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Masuk <span class="sr-only">(current)</span></a>
 					</li>
-					<li class="nav-item dropdown">
-						 <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown">Dropdown link</a>
-						<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-							 <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a>
-							<div class="dropdown-divider">
-							</div> <a class="dropdown-item" href="#">Separated link</a>
-						</div>
+					<li class="nav-item active">
+						 <a class="nav-link" href="#">Daftar&nbsp;&nbsp;<span class="sr-only">(current)</span></a>
 					</li>
 				</ul>
 			</div>
 		</nav>
+		<hr class="hr1">
 	</div>
-		
 	</div>
