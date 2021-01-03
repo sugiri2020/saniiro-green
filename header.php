@@ -35,7 +35,7 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img class="d-block w-100" alt="Carousel Bootstrap First" src="img/janda-bolong.png" height="250px">
+						<img class="d-block w-100" alt="Carousel Bootstrap First" src="img/bunga-pink.jpeg" height="350px">
 						<div class="carousel-caption">
 							<h3>
 								BUNGAPEDIA
@@ -43,7 +43,7 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="img/spora.jpg" height="250px">
+						<img class="d-block w-100" alt="Carousel Bootstrap Second" src="img/bunga-tulip-mekar.jpeg" height="350px">
 						<div class="carousel-caption">
 							<h3>
 								BUNGAPEDIA
@@ -51,7 +51,7 @@
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="d-block w-100" alt="Carousel Bootstrap Third" src="img/talas-putih.jpg" height="250px">
+						<img class="d-block w-100" alt="Carousel Bootstrap Third" src="img/talas-putih.jpg" height="350px">
 						<div class="carousel-caption">
 							<h3>
 								BUNGAPEDIA
