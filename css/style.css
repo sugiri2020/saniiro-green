@@ -1,2 +1,6 @@
 # Empty CSS file for your own CSS
+.vr {
+	border-left: 6px solid blue;
+    height: 100%;
+}
 
