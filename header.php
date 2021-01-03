@@ -11,6 +11,7 @@
     <meta name="author" content="LayoutIt!">
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- <link href="css/bootstrap.css" rel="stylesheet"> -->
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="css/style.css" rel="stylesheet">
@@ -20,7 +21,7 @@
   </head>
   <body>
 
-    <div class="container">
+    <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
 			<div class="carousel slide" id="carousel-819037">

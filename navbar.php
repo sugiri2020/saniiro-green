@@ -11,11 +11,11 @@
 							 <a class="nav-link" href="#"><i class="fas fa-cart-plus"></i> <span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item active">
-							 <a class="nav-link" href="#">About Us <span class="sr-only">(current)</span></a>
+							 <a class="nav-link" href="#">Jenis <span class="sr-only">(current)</span></a>
 						</li>
 					</ul>
 					<form class="form-inline">
-						<input class="form-control mr-sm-2" type="text"> 
+						<input class="form-control mr-sm-2" type="text" placeholder="cari bunga"> 
 						<button class="btn btn-primary my-2 my-sm-0" type="submit">
 						<i class="fas fa-search-plus"></i>
 						</button>
